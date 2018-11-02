@@ -1,12 +1,6 @@
-package com.estaine.main;
+package com.estaine.flight;
 
 import java.net.URL;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.remote.DesiredCapabilities;
-import org.openqa.selenium.remote.RemoteWebDriver;
-import org.openqa.selenium.support.ui.ExpectedCondition;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class FlightSearcher extends Thread {
 

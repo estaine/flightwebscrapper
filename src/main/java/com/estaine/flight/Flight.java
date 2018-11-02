@@ -1,4 +1,4 @@
-package com.estaine.main;
+package com.estaine.flight;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
